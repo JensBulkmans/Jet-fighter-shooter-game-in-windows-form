@@ -7,3 +7,14 @@ C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Fighter Jet Shooting Game 
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Fighter Jet Shooting Game MOO ICT\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.csproj.GenerateResource.cache
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Fighter Jet Shooting Game MOO ICT\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.exe
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Fighter Jet Shooting Game MOO ICT\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.pdb
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\bin\Debug\Fighter Jet Shooting Game MOO ICT.exe.config
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\bin\Debug\Fighter Jet Shooting Game MOO ICT.exe
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\bin\Debug\Fighter Jet Shooting Game MOO ICT.pdb
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.csproj.AssemblyReference.cache
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.csproj.SuggestedBindingRedirects.cache
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter_Jet_Shooting_Game_MOO_ICT.Form1.resources
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter_Jet_Shooting_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.csproj.GenerateResource.cache
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.exe
+C:\Users\jensb\source\repos\JensBulkmans\Curio Vs\Jet-fighter-shooter-game-in-windows-form\Fighter Jet Shooting Game MOO ICT\obj\Debug\Fighter Jet Shooting Game MOO ICT.pdb
